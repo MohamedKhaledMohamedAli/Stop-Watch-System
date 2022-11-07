@@ -4,7 +4,7 @@ Description:
 
     1. Used ATmega32 Microcontroller with frequency 1Mhz.
 
-    2. Configured Timer1 in ATmega16 with CTC mode to count the Stop Watch time.
+    2. Configured Timer1 in ATmega32 with CTC mode to count the Stop Watch time.
 
     3. Used six Common Anode 7-segments.
 
